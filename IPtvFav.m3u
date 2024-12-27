@@ -35,7 +35,8 @@ https://stream.ap9fm.in/radio/8000/radio.mp3
 http://104.167.4.67:8332/;stream.mp3
 #EXTINF:-1 tvg-id="shoutcast" tvg-logo="https://img1.picmix.com/output/stamp/normal/7/4/8/7/1857847_b5f91.png" group-title="Radio",Bollywood 
 http://desizoneradio.com:8000/relay3
-
+#EXTINF:-1 tvg-id="shoutcast" tvg-logo="https://img1.picmix.com/output/stamp/normal/9/4/7/3/1953749_59e4e.png" group-title="Radio",Bollywood 
+http://desizoneradio.com:8000/relay2
 
 #EXTINF:-1 tvg-id="NDTV24x7.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/NDTV_247.svg/512px-NDTV_247.svg.png" group-title="National",NDTV 24X7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
