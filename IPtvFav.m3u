@@ -33,8 +33,8 @@ https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="NBC 10" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/NBC_News_%282023%29.svg/748px-NBC_News_%282023%29.svg.png" group-title="English",NBC 10
 https://pubads.g.doubleclick.net/ssai/event/kpannrCBQ5KwdV3Hag3Wog/master.m3u8
-#EXTINF:-1 tvg-id="ABC 15" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/43s7KXt.png" group-title="English",ABC 15 Phoenix 
-https://content.uplynk.com/channel/9deaf22aaa33461f9cac22e030ed00ec.m3u8
+#EXTINF:-1 tvg-id="ABC NY" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/43s7KXt.png" group-title="English",ABC NY 
+https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8
 #EXTINF:-1 tvg-id="PlutoTVWeatherNation.us" tvg-country="US" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/WeatherNation_icon.png" group-title="English",WeatherNation
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bdce04659ee03633e758130/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5bdce04659ee03633e758130&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=217&terminate=false&userId=
 #EXTINF:-1 tvg-id="PlutoTVNature.us" tvg-logo="https://i.imgur.com/PtWUmss.png" group-title="English",Nature
