@@ -51,7 +51,7 @@ https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CNN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/512px-CNN.svg.png" group-title="English",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="NBC 10" tvg-country="US" tvg-language="English" tvg-logo="" group-title="English",NBC 10
+#EXTINF:-1 tvg-id="NBC 10" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/NBC_News_%282023%29.svg/748px-NBC_News_%282023%29.svg.png" group-title="English",NBC 10
 https://pubads.g.doubleclick.net/ssai/event/kpannrCBQ5KwdV3Hag3Wog/master.m3u8
 #EXTINF:-1 tvg-id="ABC 15" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/43s7KXt.png" group-title="English",ABC 15 Phoenix 
 https://content.uplynk.com/channel/9deaf22aaa33461f9cac22e030ed00ec.m3u8
