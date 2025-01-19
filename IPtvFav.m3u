@@ -1,26 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ABNAndhraJyoti.in" tvg-logo="https://i.imgur.com/gcoiZJ3.png" group-title="Telugu",ABN Andhra Jyoti
-https://ythls.armelin.one/channel/UC_2irx_BQR7RsBKmUV9fePQ.m3u8
-#EXTINF:-1 tvg-id="NTVTelugu.in" tvg-logo="https://i.imgur.com/WqTIoWS.png" group-title="Telugu",NTV Telugu
-https://ythls.armelin.one/channel/UCumtYpCY26F6Jr3satUgMvA.m3u8
-#EXTINF:-1 tvg-id="ETVAndhraPradesh.in" tvg-logo="https://i.imgur.com/pFNCRnf.png" group-title="Telugu",ETV Andhra Pradesh 
-https://ythls.armelin.one/channel/UCJi8M0hRKjz8SLPvJKEVTOg.m3u8
-#EXTINF:-1 tvg-id="ETVTelangana.in" tvg-logo="https://i.imgur.com/DkgvWTK.png" group-title="Telugu",ETV Telangana
-https://ythls.armelin.one/channel/UC6ickpgDIsltU_-8CbZaksQ.m3u8
 #EXTINF:-1 tvg-id="TV9Telugu.in" tvg-logo="https://i.imgur.com/ufH48jV.png" group-title="Telugu",TV9 
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-id="TV5News.in" tvg-logo="https://i.imgur.com/aOrvsYj.png" group-title="Telugu",TV5 News
-https://ythls.armelin.one/channel/UCAR3h_9fLV82N2FH4cE4RKw.m3u8
-#EXTINF:-1 tvg-id="INews.in" tvg-logo="https://i.imgur.com/IV1O11i.png" group-title="Telugu",iNEWS
-https://ythls.onrender.com/channel/UC4jYxQXFqB5q6INV6WEQC2A.m3u8
-#EXTINF:-1 tvg-id="VanithaTV.in" tvg-logo="https://i.imgur.com/KuLZt2a.png" group-title="Telugu",Vanitha TV 
-https://ythls.onrender.com/channel/UCTcH-GOkexQHWKBWSfOjhPQ.m3u8
-#EXTINF:-1 tvg-id="CVRNews.in" tvg-logo="https://i.imgur.com/UVLWX8B.png" group-title="Telugu",CVR News 
-https://ythls.armelin.one/channel/UCixD-KrpjXtMupkzkdFFlFg.m3u8
-#EXTINF:-1 tvg-id="RajNewsTelugu.in" tvg-logo="https://i.imgur.com/vGl0Zrj.png" group-title="Telugu",Raj News 
-https://ythls.onrender.com/channel/UCyMei315xIaoJTp5YOYjTxA.m3u8
-#EXTINF:-1 tvg-id="ZeeTeluguNews.in" tvg-logo="https://i.ibb.co/r7VrjKV/Zee-Telugu-News-2022-1.png" group-title="Telugu",Zee
-https://news.codeautoplay.workers.dev/?codeby=nd&channel=zeetelugu
 
 #EXTINF:-1 tvg-id="SVBC.in" tvg-logo="https://i.imgur.com/LSMvXAl.png" group-title="Bhakti",SVBC
 https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/playlist.m3u8
